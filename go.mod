@@ -1,3 +1,3 @@
-module c2b-requesr-and-response
+module c2b-request-and-response
 
 go 1.19
